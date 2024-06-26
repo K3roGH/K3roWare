@@ -1,6 +1,6 @@
 -- Step 1: Define a List of Valid Keys
 local validKeys = {
-    "key1", "key2", "key3"  -- Replace these with your actual keys
+    "Ojd8HekvmS4", "JadAjsjS", "JsnKdjanA"  -- Replace these with your actual keys
 }
 
 -- Step 2: Prompt User for Key
